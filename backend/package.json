@@ -17,6 +17,7 @@
     "express": "^5.1.0",
     "inngest": "^3.54.0",
     "mongoose": "^9.7.1",
+    "stream-chat": "^9.47.1",
     "zencode": "file:.."
   }
 }
